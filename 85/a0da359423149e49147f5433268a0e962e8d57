@@ -1,0 +1,19 @@
+CANARY.md
+  s_c99130b4b2a60e::t_cb8a48d0b05627 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "85a0da359423149e49147f5433268a0e962e8d57",
+  "prompts": {},
+  "sessions": {
+    "s_c99130b4b2a60e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a132e1-ba7b-7392-bc71-9d3fc55b8adf",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "Eric Litman <eric@litman.org>"
+    }
+  }
+}
