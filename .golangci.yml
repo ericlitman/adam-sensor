@@ -1,0 +1,5 @@
+version: "2"
+# The default linters run; gofmt reports any file it would change.
+formatters:
+  enable:
+    - gofmt
